@@ -1,0 +1,132 @@
+html {
+  overflow-x: hidden;
+}
+body {
+  background-color: #333537;
+}
+
+img {
+  border-radius: 60%;
+  position: absolute;
+  top: 3cm;
+  left: 50cm;
+  width: 100px;
+}
+
+#logo {
+  position: absolute;
+  top: 2cm;
+  left: 0;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  font-size: 62px;
+  font-family: "Silkscreen", cursive;
+  text-shadow: 0 0 2px rgb(252, 80, 80);
+}
+
+.whoami h2 {
+  position: absolute;
+  top: 7cm;
+  left: 15rem;
+  width: 100%;
+  margin: 0;
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: "Indie Flower", cursive;
+  text-shadow: 1px 0px #f3ccff, 10px 6px 0px rgba(0, 0, 0, 0.15);
+}
+
+.whoami p {
+  position: absolute;
+  top: 8.5cm;
+  left: 17rem;
+  width: 100%;
+  margin: 0;
+  font-size: 22px;
+  font-family: "Indie Flower", cursive;
+  color: rgb(161, 161, 161);
+}
+
+.otherinfo option {
+  color: #000000;
+}
+
+.someaboutme h3 {
+  position: absolute;
+  top: 15cm;
+  left: 15rem;
+  width: 100%;
+  margin: 0;
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: "Indie Flower", cursive;
+  text-shadow: 1px 0px #f3ccff, 10px 6px 0px rgba(0, 0, 0, 0.15);
+}
+
+.someaboutme p {
+  position: absolute;
+  top: 17cm;
+  left: 17rem;
+  width: 100%;
+  margin: 0;
+  font-size: 22px;
+  font-family: "Indie Flower", cursive;
+  color: rgb(161, 161, 161);
+}
+
+hr.solid {
+  border: 1px solid rgb(74, 74, 255);
+  top: 25cm;
+  position: relative;
+}
+
+.video {
+  position: absolute;
+  top: 8cm;
+  left: 44cm;
+  border-radius: 30%;
+}
+
+h4 {
+  position: absolute;
+  top: 27cm;
+  left: 0;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  font-size: 62px;
+  font-family: "Silkscreen", cursive;
+  text-shadow: 0 0 2px rgb(252, 80, 80);
+}
+
+.blockmenu ul {
+  padding: 0px !important;
+  margin: 0px !important;
+  position: absolute;
+  top: 30cm;
+  left: 0;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  font-size: 62px;
+  font-family: "Silkscreen", cursive;
+  text-shadow: 0 0 2px rgb(252, 80, 80);
+}
+
+.blockmenu li {
+  padding: 0px !important;
+  margin: 0px !important;
+  list-style: none;
+  list-style-position: inside;
+  display: block;
+  position: relative;
+  width: 25%;
+  float: left;
+}
+
+.blockmenu a {
+  text-decoration: none;
+  font-size: 32px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
